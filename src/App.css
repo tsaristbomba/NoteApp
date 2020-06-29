@@ -133,3 +133,7 @@ body {
   border: 3px solid rgb(231, 231, 142); /* creates padding around scroll thumb */
   padding-top: 5px;
 }
+
+.saved-notes > .centered {
+  margin: 0 auto;
+}

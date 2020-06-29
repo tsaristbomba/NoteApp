@@ -149,7 +149,9 @@ function App() {
                 </div>
               ))
             ) : (
-              <p>No saved notes</p>
+              <div className="centered">
+                <p>No saved notes</p>
+              </div>
             )}
           </div>
         </section>
