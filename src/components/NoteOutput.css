@@ -1,0 +1,11 @@
+.output {
+  width: 50%;
+  height: 250px;
+}
+
+.result {
+  text-align: justify;
+  padding: 0 13px;
+  height: 100%;
+  overflow: auto;
+}
