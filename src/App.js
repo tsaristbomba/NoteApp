@@ -82,6 +82,8 @@ function App() {
 
     setId(id);
 
+    window.scrollTo(0, 0);
+
     setToggle(true);
 
     //setMarkdownText(localStorage.getItem(editId));
